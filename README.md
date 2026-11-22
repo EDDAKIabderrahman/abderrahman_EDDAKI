@@ -1,105 +1,76 @@
-<img src="https://raw.githubusercontent.com/VOTRE-PSEUDO/VOTRE-REPO/main/assets/banner.png"
-     width="100%" alt="My Banner">
+<!-- رأس الصفحة مع الصورة المتحركة للمبرمج وفنجان القهوة -->
 <div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Développeur devant son bureau avec une tasse de café" width="450" style="border-radius: 15px;" />
+  
+  <h1>Salut 👋, je suis Spécialiste en Big Data, Systèmes Intelligents & Analytique des Données</h1>
+  
+  <p>
+    <i>Transformer les données massives en décisions intelligentes, un algorithme (et un café ☕) à la fois.</i>
+  </p>
 
-<img src="assets/banner.png" width="100%" alt="Big Data & Systèmes Intelligents">
-
-# 👋 Bonjour et bienvenue sur mon profil GitHub !
-
-### 🎓 Big Data | Systèmes Intelligents | Analytique des Données
-
-<p>
-  Passionné par la programmation, l'intelligence artificielle
-  et l'exploitation des données.
-  <br>
-  Mon objectif est de transformer les données en solutions intelligentes.
-</p>
-
-<a href="https://github.com/VOTRE-PSEUDO">
-  <img src="https://img.shields.io/badge/GitHub-Mon%20Profil-181717?style=for-the-badge&logo=github">
-</a>
-
+  <!-- شارات التواصل الاجتماعي (قم بتغيير الروابط لتناسب حساباتك) -->
+  <p>
+    <a href="https://linkedin.com/in/ton-profil" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:ton.email@exemple.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/ton-username">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 </div>
 
----
+<hr />
 
-## 🚀 À propos de moi
+<!-- قسم نبذة عني -->
+<h2>👨‍💻 À propos de moi</h2>
 
-Je suis spécialisé dans le domaine du **Big Data, des Systèmes Intelligents et de l'Analytique des Données**.
+<table border="0">
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 <b>Expertise :</b> Architecture Big Data, Intelligence Artificielle et Analyse Prédictive.</li>
+        <li>🧠 <b>Passion :</b> Conception de systèmes intelligents capables de traiter et d'analyser des flux de données complexes.</li>
+        <li>🌱 <b>Apprentissage continu :</b> Deep Learning, Cloud Computing et optimisation des algorithmes distribués.</li>
+        <li>☕ <b>Carburant quotidien :</b> Une bonne tasse de café noir pour déboguer et innover.</li>
+        <li>📫 <b>Me contacter :</b> N'hésitez pas à me joindre pour des collaborations sur des projets Data & IA !</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-Je m'intéresse particulièrement à :
+<hr />
 
-- 📊 L'analyse et la visualisation des données.
-- 🤖 L'intelligence artificielle et le Machine Learning.
-- 🗄️ Le Big Data et le traitement distribué.
-- 🧠 Les systèmes intelligents.
-- 💻 Le développement informatique.
-
----
-
-## 💻 Langages de programmation
+<!-- قسم اللغات والتقنيات -->
+<h2>🛠️ Langages de Programmation & Technologies</h2>
 
 <div align="center">
+  <h3>Langages Maîtrisés</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" alt="Python, C, C++, Java, JavaScript" />
+  </p>
 
-<img src="https://skillicons.dev/icons?i=python,c,js,java,cpp" alt="Programming Languages">
-
+  <h3>Big Data, IA & Analytique</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
+    <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop" />
+    <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </p>
 </div>
 
----
+<hr />
 
-## 🛠️ Technologies et outils
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=hadoop,spark,mysql,mongodb,git,github,linux,vscode" alt="Technologies">
-
-</div>
-
----
-
-## 🎯 Domaines de compétence
-
-| Domaine | Technologies et concepts |
-|---|---|
-| Big Data | Hadoop, Spark, MapReduce |
-| Machine Learning | Classification, Régression, Clustering |
-| Deep Learning | Réseaux de neurones |
-| Data Analytics | Analyse et visualisation des données |
-| Bases de données | SQL, NoSQL |
-| Programmation | Python, C, JavaScript, Java, C++ |
-
----
-
-## 📌 Mes objectifs
-
-- Développer des projets en Data Science.
-- Approfondir mes connaissances en Intelligence Artificielle.
-- Maîtriser les technologies Big Data.
-- Créer des applications intelligentes.
-- Participer à des projets innovants.
-
----
-
-## 📫 Me contacter
+<!-- قسم إحصائيات GitHub (قم بتغيير 'ton-username' باسم المستخدم الخاص بك) -->
+<h2>📊 Mes Statistiques GitHub</h2>
 
 <div align="center">
-
-<a href="https://github.com/VOTRE-PSEUDO">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/VOTRE-PROFIL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:votre.email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<br><br>
-
-### 💡 "Data is the new oil, Intelligence is the future."
-
-⭐ Merci de visiter mon profil GitHub !
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=fr" alt="Statistiques GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ton-username&layout=compact&langs_count=7&theme=tokyonight&locale=fr" alt="Langages les plus utilisés" />
 </div>
