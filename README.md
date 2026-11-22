@@ -1,4 +1,5 @@
-
+<img src="https://raw.githubusercontent.com/VOTRE-PSEUDO/VOTRE-REPO/main/assets/banner.png"
+     width="100%" alt="My Banner">
 <div align="center">
 
 <img src="assets/banner.png" width="100%" alt="Big Data & Systèmes Intelligents">
