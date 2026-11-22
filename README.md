@@ -1,12 +1,6 @@
-<!-- رأس الصفحة مع الصورة المتحركة للمبرمج وفنجان القهوة -->
+<!-- رأس الصفحة مع الرسم الجديد المتضمن فنجان القهوة واللغات -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Développeur devant son bureau avec une tasse de café" width="450" style="border-radius: 15px;" />
-  
-  <h1>Salut 👋, je suis Spécialiste en Big Data, Systèmes Intelligents & Analytique des Données</h1>
-  
-  <p>
-    <i>Transformer les données massives en décisions intelligentes, un algorithme (et un café ☕) à la fois.</i>
-  </p>
+  <img src="TON_LIEN_IMAGE_ICI" alt="Salut, je suis Spécialiste en Big Data, Systèmes Intelligents & Analytique des Données avec tasse de café et langages" width="100%" style="border-radius: 15px;" />
 
   <!-- شارات التواصل الاجتماعي (قم بتغيير الروابط لتناسب حساباتك) -->
   <p>
@@ -31,11 +25,11 @@
   <tr>
     <td>
       <ul>
-        <li>🔭 <b>Expertise :</b> Architecture Big Data, Intelligence Artificielle et Analyse Prédictive.</li>
-        <li>🧠 <b>Passion :</b> Conception de systèmes intelligents capables de traiter et d'analyser des flux de données complexes.</li>
-        <li>🌱 <b>Apprentissage continu :</b> Deep Learning, Cloud Computing et optimisation des algorithmes distribués.</li>
-        <li>☕ <b>Carburant quotidien :</b> Une bonne tasse de café noir pour déboguer et innover.</li>
-        <li>📫 <b>Me contacter :</b> N'hésitez pas à me joindre pour des collaborations sur des projets Data & IA !</li>
+        <li>🔭 <b>Expertise :</b> Big Data, Systèmes Intelligents & Analytique des Données.</li>
+        <li>🧠 <b>Passion :</b> Transformer les données massives en décisions intelligentes.</li>
+        <li>💻 <b>Langages :</b> Python, C, C++, Java et JavaScript.</li>
+        <li>☕ <b>Carburant quotidien :</b> Une bonne tasse de café pour coder et analyser.</li>
+        <li>📫 <b>Contact :</b> Disponible pour des projets et collaborations en Data & IA.</li>
       </ul>
     </td>
   </tr>
@@ -63,14 +57,4 @@
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   </p>
-</div>
-
-<hr />
-
-<!-- قسم إحصائيات GitHub (قم بتغيير 'ton-username' باسم المستخدم الخاص بك) -->
-<h2>📊 Mes Statistiques GitHub</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=fr" alt="Statistiques GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ton-username&layout=compact&langs_count=7&theme=tokyonight&locale=fr" alt="Langages les plus utilisés" />
 </div>
