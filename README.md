@@ -36,6 +36,7 @@
 
   <h3>Big Data, IA & Analytique</h3>
   <p>
+    <img src="https://skillicons.dev/icons?i=hadoop,spark,mysql,mongodb,git,github,linux,vscode" alt="Technologies et outils" />
     <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
     <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop" />
     <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
