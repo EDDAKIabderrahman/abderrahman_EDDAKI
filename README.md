@@ -67,10 +67,4 @@
 
 <hr />
 
-<!-- قسم إحصائيات GitHub (قم بتغيير 'ton-username' باسم المستخدم الخاص بك) -->
-<h2>📊 Mes Statistiques GitHub</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=fr" alt="Statistiques GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ton-username&layout=compact&langs_count=7&theme=tokyonight&locale=fr" alt="Langages les plus utilisés" />
-</div>
+<!-- قسم إحصائيات GitHub (قم بتغيير 'to
