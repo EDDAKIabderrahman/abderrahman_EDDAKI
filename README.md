@@ -1,4 +1,3 @@
-<!-- رأس الصفحة مع الصورة المتحركة للمبرمج وفنجان القهوة -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Développeur devant son bureau avec une tasse de café" width="450" style="border-radius: 15px;" />
   
@@ -8,10 +7,7 @@
     <i>Transformer les données massives en décisions intelligentes, un algorithme (et un café ☕) à la fois.</i>
   </p>
 
-  <!-- شارات التواصل الاجتماعي (قم بتغيير الروابط لتناسب حساباتك) -->
   
-
-<!-- قسم نبذة عني -->
 <h2>👨‍💻 À propos de moi</h2>
 
 <table border="0">
@@ -30,7 +26,6 @@
 
 <hr />
 
-<!-- قسم اللغات والتقنيات -->
 <h2>🛠️ Langages de Programmation & Technologies</h2>
 
 <div align="center">
@@ -53,5 +48,3 @@
 </div>
 
 <hr />
-
-<!-- قسم إحصائيات GitHub (قم بتغيير 'to
